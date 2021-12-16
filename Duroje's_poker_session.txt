@@ -1,0 +1,16 @@
+Duroje Gwamna
+
+Duroje's Hand: No Matches
+Duroje's High Card: Ace
+Dealer's Hand: One Pair
+Dealer's High Card: Ace
+Result: Dealer wins...
+
+Duroje's Hand: One Pair
+Duroje's High Card: King
+Dealer's Hand: One Pair
+Dealer's High Card: Ace
+Result: Dealer wins...
+
+Total Games: 2
+Win Loss Record: W0 - L2 - D0
