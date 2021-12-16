@@ -7,3 +7,5 @@ Each hand is analyzed for matches (e.g. Royal Flush, Straights)
 Player wins if hand is ranked higher than the dealer, or vice versa, using internal point system. Will check for the highest card if hands are identical
 Can play for however long.
 Can enter name in a database when finished, view game stats, and receive printout of results.
+
+A video demonstration is available!
